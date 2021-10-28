@@ -1,2 +1,2 @@
-# Instance-Segmentation-using-Bodypix
+# Instance Segmentation using Bodypix
 Identifies multiple objects in a picture
